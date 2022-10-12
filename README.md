@@ -5,10 +5,12 @@ This source code is Alpha Version from my Project "Pengabdian Masyarakat".
 
 #Resource Map Snake And Ladder is using public map from internet
 !
-[utangga](https://user-images.githubusercontent.com/81909630/195465310-f8a8bf20-fa12-4c94-a25c-ed6be2243a58.jpg)
+![utangga](https://user-images.githubusercontent.com/81909630/195465564-887bdec1-9f1d-4727-83d8-80f12fe12d39.jpg)
+
 
 #Resource Map UNO is using public map from internet 
 !
-[uno](https://user-images.githubusercontent.com/81909630/195465305-d45c8a06-2187-4326-831d-e2d6b940b8cb.jpg)
+![uno](https://user-images.githubusercontent.com/81909630/195465579-7e95b5d6-ffd1-476a-af6c-08b3fef91592.jpg)
+
 
 
